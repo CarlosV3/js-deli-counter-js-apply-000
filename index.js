@@ -31,10 +31,16 @@ function currentLine(line) {
   }
 }
 
-takeANumber(line, "Humzah") => hello humzah you are number1 in line
-takeANumber(line, "joe") => hello humzah you are number2 in line
-nowServing
-takeANumber => hello jim you are number 3 in line 
-function takeANumber() 
+//takeANumber(line, "Humzah") => hello humzah you are number1 in line
+//takeANumber(line, "joe") => hello humzah you are number2 in line
+//nowServing
+//takeANumber => hello jim you are number 3 in line 
+
+function takeANumber() {
+  var number = 0;
+  number++
+  return `You are number ${number}`
+}
+
 
 
