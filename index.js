@@ -35,12 +35,11 @@ function currentLine(line) {
 //takeANumber(line, "joe") => hello humzah you are number2 in line
 //nowServing
 //takeANumber => hello jim you are number 3 in line 
-
-function takeANumber() {
   var number = 0;
+function takeANumber() {
   number++
   return `You are number ${number}`
 }
 
-
-
+object oriented
+Hackerrank.com 
