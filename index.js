@@ -31,8 +31,8 @@ function currentLine(line) {
   }
 }
 
+takeANumber
 
-
-function takeANumber
+function takeANumber() 
 
 
